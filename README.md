@@ -1,6 +1,3 @@
-# FASTA-Sequence-Downloader-from-UniProt-Python-Script-
-A Python script to download FASTA sequences from UniProt using a list of accession IDs and save them into a single .fasta file. Useful for bioinformatics projects, sequence analysis, or protein annotation pipelines
-
 # 🧬 FASTA Sequence Downloader from UniProt
 
 This Python script automates the process of downloading protein sequences in FASTA format from the [UniProt](https://www.uniprot.org/) database using a list of UniProt accession IDs.
